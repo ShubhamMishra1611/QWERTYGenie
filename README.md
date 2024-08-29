@@ -15,4 +15,5 @@ pip install .
 ```
 
 ## Usage
-typing_master
+[typing_master
+](https://appspy-dpwtodhejsblyg5jqtrr8n.streamlit.app/)
