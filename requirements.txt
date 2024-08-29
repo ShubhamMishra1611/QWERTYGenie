@@ -1,3 +1,4 @@
 streamlit
 llama_index
 llama-index-llms-gemini
+python-dotenv
