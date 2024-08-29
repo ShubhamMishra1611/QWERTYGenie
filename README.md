@@ -16,8 +16,3 @@ pip install .
 
 ## Usage
 typing_master
-
-
-## Requirements
-
-This setup provides a complete structure for your project, making it easier to install, distribute, and maintain. Let me know if you need further modifications or want to proceed with another step!
